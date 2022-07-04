@@ -2,7 +2,7 @@
 Automated UI testing framework with one aautotest without using assert from pytest.  
 
 How to use:  
-0.) Install python 3.10+
+0.) Install python 3.10+  
 1.) Install all requirenments from requirenments.txt file, or use this list:  
 		1. pip install selenium  
 		2. pip install pytest  
