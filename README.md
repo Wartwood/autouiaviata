@@ -9,7 +9,7 @@ How to use:
 		3. pip install webdriver-manager  
   
 2.) Install Google Chrome (any version isn't necessary)  
-3.) Download my code via zip file from github and unarchive it 
+3.) Download my code via zip file from github and unarchive it   
 4.) Open main folder with terminal and run command, it runs small UI test:  
 		pytest -s -v  
  
