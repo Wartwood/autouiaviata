@@ -8,8 +8,8 @@ How to use:
 		3. pip install webdriver-manager  
   
 2.) Install Google Chrome (any version isn't necessary)  
-3.) Download my code via zip file from github  
-4.) Open main folder (001) with terminal and run command, it runs small UI test:  
+3.) Download my code via zip file from github and unarchive it 
+4.) Open main folder with terminal and run command, it runs small UI test:  
 		pytest -s -v  
  
 P.S. if you don't need open a browser window, open conftest.py by IDE and put 'headless' instead of 'chrome' in 11 line  
